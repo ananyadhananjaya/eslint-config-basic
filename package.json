@@ -8,5 +8,8 @@
   },
   "author": "Ananya Dhananjaya <ananya.dhananjaya@gmail.com>",
   "license": "MIT",
-  "keywords": ["eslint", "eslint-config"]
+  "keywords": ["eslint", "eslint-config"],
+  "devDependencies": {
+    "eslint": "^8.18.0"
+  }
 }
