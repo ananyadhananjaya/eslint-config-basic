@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-basic",
+  "name": "@ananyadhananjaya/eslint-config-basic",
   "version": "1.0.0",
   "description": "A basic eslint collection of rules",
   "main": "index.js",
@@ -11,5 +11,8 @@
   "keywords": ["eslint", "eslint-config"],
   "devDependencies": {
     "eslint": "^8.18.0"
+  },
+  "peerDependencies": {
+    "eslint": ">=8.18.0"
   }
 }
