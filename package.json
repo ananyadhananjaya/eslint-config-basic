@@ -1,6 +1,6 @@
 {
   "name": "@ananyadhananjaya/eslint-config-basic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A basic eslint collection of rules",
   "main": "index.js",
   "scripts": {
