@@ -4,7 +4,7 @@
   "description": "A basic eslint collection of rules",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "publish": "npm publish --access=public"
   },
   "author": "Ananya Dhananjaya <ananya.dhananjaya@gmail.com>",
   "license": "MIT",
