@@ -11,8 +11,9 @@ module.exports = {
       jsx: true,
     },
   },
+  ignorePatterns: ["*.html"],
   rules: {
-    "no-unused-vars": "warn",
+    "no-unused-vars": "error",
     "no-var": "error",
     "comma-spacing": ["error", { before: false, after: true }],
     "comma-style": ["error", "last"],
