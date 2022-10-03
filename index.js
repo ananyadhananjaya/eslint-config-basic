@@ -11,6 +11,7 @@ module.exports = {
       jsx: true,
     },
   },
+  plugins: ["react"],
   ignorePatterns: ["*.html"],
   rules: {
     "no-unused-vars": "error",
